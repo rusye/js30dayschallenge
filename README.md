@@ -13,3 +13,8 @@ I tried adjusting the CSS for the hands but was buring way too much time to make
 
 This is something that I've never used and never knew that it was possible in such an easy manner.
 I would typically assign it a pre-determined class.
+
+# 04 - Array Cardio Day 1
+
+This was a good refresher on all of the array methods available and how they work. Some of my code wasn't as readable but it was funcitonal.
+Need to try to make the code a little bit more readable. On some of the challenges I went ahead a tried on my own and adjusted it in my own flavor.
