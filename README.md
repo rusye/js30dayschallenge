@@ -18,3 +18,7 @@ I would typically assign it a pre-determined class.
 
 This was a good refresher on all of the array methods available and how they work. Some of my code wasn't as readable but it was funcitonal.
 Need to try to make the code a little bit more readable. On some of the challenges I went ahead a tried on my own and adjusted it in my own flavor.
+
+# 05 - Flex Panel Gallery
+
+This was an awesome reminder about how flexbox works and the capabilities of it. I've used flexbox in the past and remember the struggle when I was first learning to use it and the resources I would keep referencing for it.
