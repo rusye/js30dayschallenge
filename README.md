@@ -26,3 +26,7 @@ This was an awesome reminder about how flexbox works and the capabilities of it.
 # 06 - Type Ahead
 
 This was one was interesting because it actually showed me how to use key presses to update the search results immediatly. It was interesting to see the way I could use regex to highlight the search terms in the results.
+
+# 07 - Array Cardio Day 2
+
+This was pretty straight forward and was a refresher for me on how to work with arrays. I started simplifying the code before he got it. It was pretty strait forward.
