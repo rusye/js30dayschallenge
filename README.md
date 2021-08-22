@@ -22,3 +22,7 @@ Need to try to make the code a little bit more readable. On some of the challeng
 # 05 - Flex Panel Gallery
 
 This was an awesome reminder about how flexbox works and the capabilities of it. I've used flexbox in the past and remember the struggle when I was first learning to use it and the resources I would keep referencing for it.
+
+# 06 - Type Ahead
+
+This was one was interesting because it actually showed me how to use key presses to update the search results immediatly. It was interesting to see the way I could use regex to highlight the search terms in the results.
