@@ -30,3 +30,7 @@ This was one was interesting because it actually showed me how to use key presse
 # 07 - Array Cardio Day 2
 
 This was pretty straight forward and was a refresher for me on how to work with arrays. I started simplifying the code before he got it. It was pretty strait forward.
+
+# 08 - Fun with HTML5 Canvas
+
+This one was a really exciting one. I didn't know that HTML had a canvas. In this one I also went ahead and turned some of the lines to single liners and also implemented ternary operators instead of following WesBos' methods.
