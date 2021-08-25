@@ -34,3 +34,7 @@ This was pretty straight forward and was a refresher for me on how to work with 
 # 08 - Fun with HTML5 Canvas
 
 This one was a really exciting one. I didn't know that HTML had a canvas. In this one I also went ahead and turned some of the lines to single liners and also implemented ternary operators instead of following WesBos' methods.
+
+# 09 - Dev Tools Domination
+
+This one wasn't that crazy but it did remind me a little bit of ruby with the interpolation that is available through this. The ability to change the font size of the log is awesome!
