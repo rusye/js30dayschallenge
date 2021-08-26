@@ -42,3 +42,7 @@ This one wasn't that crazy but it did remind me a little bit of ruby with the in
 # 10 - Hold Shift and Check
 
 This one was a little bit tougher. He had instructed us to try it on our own first, I psuedocoded it and had the approach that he didn't recommend. I was going to put it all into an array and recorded the position of the checkbox within the array and check all the checkboxes inbetween as well.
+
+# 11 - Custom Video Player
+
+I didn't even know this was possible with vanilla JavaScript. This was a really awesome challenge. This one required more logic but slowly learning the trick of using Booleans to track dragging events on mouse down.
