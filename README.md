@@ -38,3 +38,7 @@ This one was a really exciting one. I didn't know that HTML had a canvas. In thi
 # 09 - Dev Tools Domination
 
 This one wasn't that crazy but it did remind me a little bit of ruby with the interpolation that is available through this. The ability to change the font size of the log is awesome!
+
+# 10 - Hold Shift and Check
+
+This one was a little bit tougher. He had instructed us to try it on our own first, I psuedocoded it and had the approach that he didn't recommend. I was going to put it all into an array and recorded the position of the checkbox within the array and check all the checkboxes inbetween as well.
