@@ -46,3 +46,7 @@ This one was a little bit tougher. He had instructed us to try it on our own fir
 # 11 - Custom Video Player
 
 I didn't even know this was possible with vanilla JavaScript. This was a really awesome challenge. This one required more logic but slowly learning the trick of using Booleans to track dragging events on mouse down.
+
+# 12 - Key Sequence Detection
+
+This one was simple but fun. Definitely going to consider adding this easter egg to future sites of mine.
