@@ -50,3 +50,7 @@ I didn't even know this was possible with vanilla JavaScript. This was a really 
 # 12 - Key Sequence Detection
 
 This one was simple but fun. Definitely going to consider adding this easter egg to future sites of mine.
+
+# 13 - Slide in on Scroll
+
+This one was a bit more complicated on trying to figure out how all that math worked on trying to grab the image height and the location of the image on the page. It would have taken me a while to figure this out on my own.
