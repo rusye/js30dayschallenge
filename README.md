@@ -54,3 +54,7 @@ This one was simple but fun. Definitely going to consider adding this easter egg
 # 13 - Slide in on Scroll
 
 This one was a bit more complicated on trying to figure out how all that math worked on trying to grab the image height and the location of the image on the page. It would have taken me a while to figure this out on my own.
+
+# 14 - JavaScript References VS Copying
+
+This one was a bit more complicated to wrap my head around but is something that I should definitely remember in the future to avoid potential problems with improperly copying things. I do recall having to deep copy an object before and that wasn't exciting at all.
